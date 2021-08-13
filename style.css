@@ -1,0 +1,25 @@
+body {background-color:#EAF6F6;}
+
+
+hr
+{
+  background-color:white;
+  border-style:dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 3%;
+}
+a{
+  text-decoration: none;
+}
+.contact{
+  color: red;
+}
+#pre{
+  background-color: black;
+  color:white;
+
+}
+img:hover{
+  border-radius: 30%;
+}
